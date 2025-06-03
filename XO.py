@@ -1,5 +1,6 @@
 from tkinter import *
-
+#include 
+#/c/Users/ya2at/AppData/Roaming/SPB_Data/yathi
 
 def run():
     def page2(player1,player2,):
@@ -11,7 +12,7 @@ def run():
                     b=0
                     if c%2==0:
                         b1txt.set("X")
-                        b1.configure(disabledforeground="blue")
+                        b1.configure(disabledforeground="pink")
 
                     else:
                         b1txt.set("O")
