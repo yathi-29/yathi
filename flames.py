@@ -4,7 +4,8 @@ from tkinter import ttk
 import random
 from PIL import ImageTk,Image
 
-#done 
+#done
+#done 123
 def display(take,flaimage):
 
         black_screen=Label(window,bg="black",width=110,height=8)
